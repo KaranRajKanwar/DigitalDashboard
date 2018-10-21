@@ -13,4 +13,4 @@ The Schedule = https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/sc
 
 The Proof of Purchase = https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/Proof%20of%20purchase.pdf
 
-The Schematic Diagram =
+The UML Diagram = https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/Digital%20Dashboard%20UML%20Diagram.png
