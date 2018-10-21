@@ -1,7 +1,7 @@
 # Raspberry Pi B Digital Dashboard
-________________________________________________________________________________________________________________________________________
+
 ## Main Idea : To create a a portable speedometer that can give reading for velocity,speed & acceleration using a Raspberry Pi 3 B 
-________________________________________________________________________________________________________________________________________
+
 ### Sept 11th - Project Proposal
 
 This is the [project proposal](https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/DigitalDashboard%20Proposal.xlsx)
