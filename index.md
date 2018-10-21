@@ -1,13 +1,23 @@
-Contents of the Digital Dashboard
-
+Raspberry Pi B Digital Dashboard
+________________________________________________________________________________________________________________________________________
 Main Idea : To create a a portable speedometer that can give reading for velocity,speed & acceleration using a Raspberry Pi 3 B 
 
-The Proposal = https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/DigitalDashboard%20Proposal.xlsx
+Sept 11th - Project Proposal
 
-The Budget = https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/DigitalDashboardBudget.xlsx
+This is the [project proposal](https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/DigitalDashboard%20Proposal.xlsx)
 
-The Schedule = https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/schedule.mpp
+Sept 18th - Project Schedule
 
-The Proof of Purchase = https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/Proof%20of%20purchase.pdf
+This is the [project schedule](https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/schedule.mpp)
 
-The Schematic Diagram =
+Sept 25th - Project Budget
+
+This is the [project budget](https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/DigitalDashboardBudget.xlsx)
+
+Oct 2nd - Proof of Purchase
+
+This is the [proof of pruchase](https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/Proof%20of%20purchase.pdf)
+
+Oct 16th - UML Diagram
+
+This is the [UML diagram](https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/Digital%20Dashboard%20UML%20Diagram.png)
