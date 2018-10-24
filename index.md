@@ -31,7 +31,7 @@ This is the ![UML diagram](https://github.com/KaranRajKanwar/DigitalDashboard/bl
 This is the [Fritzing Diagram](https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/pitftfritzing.fzz)
 This requires the Fritzing Software to see. See below for a PNG of the Diagram
 
-This is the image ![Fritzing Diagram PNG](https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/2018-10-24.png)
+This is the image ![Fritzing Diagram PNG](https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/2018-10-24%20(1).png)
 
 ### Completed Breadboarding for the Raspberry Pi,Screen and Breadboard
 
