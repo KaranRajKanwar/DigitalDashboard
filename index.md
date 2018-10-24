@@ -1,7 +1,11 @@
 # Raspberry Pi B Digital Dashboard
 
 ## Main Idea : To create a a portable speedometer that can give reading for velocity,speed & acceleration using a Raspberry Pi 3 B 
+I am going to attach some good-to-have links for pinouts,schematic diagrams and manuals
 
+[product page](https://www.adafruit.com/product/2298)
+
+[Github page for Fritzing parts](https://github.com/adafruit/Fritzing-Library)
 ### Sept 11th - Project Proposal
 
 This is the [project proposal](https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/DigitalDashboard%20Proposal.xlsx)
