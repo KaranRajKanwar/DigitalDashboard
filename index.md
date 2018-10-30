@@ -24,7 +24,7 @@ As of now I have the Adafruit Capactive Touchscreen working on top of my Raspber
 
 ### Problems and Opportunities
 
-The most frequent problem that I ran into was choosing the incorrect display driver when running the script on my raspberry pi. Installing the incorrect driver can casue issues for the display. Also I chose to use gui mode as terminal mode doesnt allow for any gui. 
+The most frequent problem that I ran into was choosing the incorrect display driver when running the script on my raspberry pi. Installing the incorrect driver can casue issues for the display. Also I chose to use gui mode as terminal mode doesnt allow for any gui. My device wont allow me to create a PCB as it requires all 40 GPIO pins to be used by the touchscreen.Professor Medri allowed me to continue with no PCB design.
 
 ### Financial Status
 
