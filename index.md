@@ -6,12 +6,31 @@ I am going to attach some good-to-have links for pinouts,schematic diagrams and 
 [product page](https://www.adafruit.com/product/2298)
 
 [Github page for Fritzing parts](https://github.com/adafruit/Fritzing-Library)
-### Oct 30th - Progress Report
-Current Progress - 
-Problems and Opportunities- 
-Financial Status-
+## Oct 30th - Progress Report
 
-### Oct 23rd - Fritzing Diagram And completed Breadboarding 
+### Current Progress 
+As of now I have the Adafruit Capactive Touchscreen working ontop of my Raspberry pi B. Got both the screen and the touch working good! To get the screen to work I ran a script that Adafruit provided.
+
+### This is the script file
+cd ~
+
+wget https://raw.githubusercontent.com/adafruit/Raspberry-Pi-Installer-Scripts/master/adafruit-pitft.sh
+
+chmod +x adafruit-pitft.sh
+
+sudo ./adafruit-pitft.sh
+
+
+### Problems and Opportunities
+
+The most frequent problem that I ran into was choosing the incorrect display driver when running the script on my raspberry pi. Installing the incorrect driver can casue issues for the display. Also I chose to use gui mode as terminal mode doesnt allow for any gui. 
+
+### Financial Status
+
+No extra money was spent on this project
+
+## Oct 23rd - Fritzing Diagram And completed Breadboarding 
+
 ### Completed Breadboarding for the Raspberry Pi,Screen and Breadboard
 
 ![Left View](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/left%20view.jpg)
@@ -28,22 +47,22 @@ This requires the Fritzing Software to see. See below for a PNG of the Diagram
 
 This is the image ![Fritzing Diagram PNG](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/2018-10-24%20(1).png)
 
-### Oct 16th - UML Diagram
+## Oct 16th - UML Diagram
 
 This is the ![UML diagram](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/Digital%20Dashboard%20UML%20Diagram.png)
 
-### Oct 2nd - Proof of Purchase
+## Oct 2nd - Proof of Purchase
 
 This is the [proof of pruchase](https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/Proof%20of%20purchase.pdf)
 
-### Sept 25th - Project Budget
+## Sept 25th - Project Budget
 
 This is the [project budget](https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/DigitalDashboardBudget.xlsx)
 
-### Sept 18th - Project Schedule
+## Sept 18th - Project Schedule
 
 This is the [project schedule](https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/schedule.mpp)
 
-### Sept 11th - Project Proposal
+## Sept 11th - Project Proposal
 
 This is the [project proposal](https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/DigitalDashboard%20Proposal.xlsx)
