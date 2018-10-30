@@ -24,7 +24,7 @@ This is the [proof of pruchase](https://github.com/KaranRajKanwar/DigitalDashboa
 
 ### Oct 16th - UML Diagram
 
-This is the ![UML diagram](https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/Digital%20Dashboard%20UML%20Diagram.png)
+This is the ![UML diagram](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/Digital%20Dashboard%20UML%20Diagram.png)
 
 ### Oct 23rd - Fritzing Diagram And completed Breadboarding 
 
