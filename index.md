@@ -33,19 +33,14 @@ No extra money was spent on this project
 
 ### Completed Breadboarding for the Raspberry Pi,Screen and Breadboard
 
-![Left View](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/left%20view.jpg)
-
-![Right View](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/right%20view.jpg)
-
-![Center View](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/center%20view.jpg)
-
 ### Working Display
 ![Working Display](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/2.8%20inch%20Capacitive%20touchscreen.jpg)
 
-This is the [Fritzing Diagram](https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/pitftfritzing.fzz)
+This is the [Fritzing Diagram](https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/pifritzing.fzz)
+
 This requires the Fritzing Software to see. See below for a PNG of the Diagram
 
-This is the image ![Fritzing Diagram PNG](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/2018-10-24%20(1).png)
+This is the image ![Fritzing Diagram PNG](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/BreadboardDiagram.png)
 
 ## Oct 16th - UML Diagram
 
