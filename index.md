@@ -7,18 +7,18 @@ I am going to attach some good-to-have links for pinouts,schematic diagrams and 
 
 [Github page for Fritzing parts](https://github.com/adafruit/Fritzing-Library)
 ## Oct 30th - Progress Report
+### Activities versus the schedule
+Everything is on schedule as I have the Raspberry Pi and screen working
 
 ### Current Progress 
-As of now I have the Adafruit Capactive Touchscreen working ontop of my Raspberry pi B. Got both the screen and the touch working good! To get the screen to work I ran a script that Adafruit provided.
+As of now I have the Adafruit Capactive Touchscreen working on top of my Raspberry pi B. Got both the screen and the touch working well! To get the screen to work I ran a script that Adafruit provided.
 
 ### This is the script file
-cd ~
 
-wget https://raw.githubusercontent.com/adafruit/Raspberry-Pi-Installer-Scripts/master/adafruit-pitft.sh
-
-chmod +x adafruit-pitft.sh
-
-sudo ./adafruit-pitft.sh
+1. cd ~
+2. wget https://raw.githubusercontent.com/adafruit/Raspberry-Pi-Installer-Scripts/master/adafruit-pitft.sh
+3. chmod +x adafruit-pitft.sh
+4. sudo ./adafruit-pitft.sh
 
 
 ### Problems and Opportunities
