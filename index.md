@@ -15,11 +15,12 @@ As of now I have the Adafruit Capactive Touchscreen working on top of my Raspber
 
 ### This is the script file
 
-1. cd ~
-2. wget https://raw.githubusercontent.com/adafruit/Raspberry-Pi-Installer-Scripts/master/adafruit-pitft.sh
-3. chmod +x adafruit-pitft.sh
-4. sudo ./adafruit-pitft.sh
-
+```C
+ cd ~
+ wget https://raw.githubusercontent.com/adafruit/Raspberry-Pi-Installer-Scripts/master/adafruit-pitft.sh
+ chmod +x adafruit-pitft.sh
+ sudo ./adafruit-pitft.sh
+```
 
 ### Problems and Opportunities
 
