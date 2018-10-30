@@ -7,6 +7,9 @@ I am going to attach some good-to-have links for pinouts,schematic diagrams and 
 
 [Github page for Fritzing parts](https://github.com/adafruit/Fritzing-Library)
 ### Oct 30th - Progress Report
+Current Progress - 
+Problems and Opportunities- 
+Financial Status-
 
 ### Oct 23rd - Fritzing Diagram And completed Breadboarding 
 ### Completed Breadboarding for the Raspberry Pi,Screen and Breadboard
