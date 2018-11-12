@@ -6,6 +6,17 @@ I am going to attach some good-to-have links for pinouts,schematic diagrams and 
 [product page](https://www.adafruit.com/product/2298)
 
 [Github page for Fritzing parts](https://github.com/adafruit/Fritzing-Library)
+## Nov 6th- Hardware Testing
+
+### Current Progress
+Everything is going as planned, now I am trying to get the X and y coordinates to pop up in terminal to showcase the capacitive screen working!
+
+### Problems and Opportunities
+I could not create a PCB as discussed with Professor Medri, so I dont have any PCB to showcase.
+
+### Financial Status
+No extra money was spent on this project
+
 ## Oct 30th - Progress Report
 ### Activities versus the schedule
 Everything is on schedule as I have the Raspberry Pi and screen working    :white_check_mark:
