@@ -9,7 +9,7 @@ I am going to attach some good-to-have links for pinouts,schematic diagrams and 
 ## Nov 6th- Hardware Testing
 
 ### Current Progress
-Everything is going as planned, now I am trying to get the X and y coordinates to pop up in terminal to showcase the capacitive screen working!
+Everything is going as planned, now I am trying to get the X and y coordinates to pop up in terminal to showcase the capacitive screen working! :white_check_mark:
 
 ### Problems and Opportunities
 I could not create a PCB as discussed with Professor Medri, so I dont have any PCB to showcase.
