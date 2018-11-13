@@ -10,10 +10,20 @@ I am going to attach some good-to-have links for pinouts,schematic diagrams and 
 ## Nov 13th- Hardware Demonstrating
 
 ### Current Progress
-Everything is going as planned, now I am trying to get the X and y coordinates to pop up in terminal to showcase the capacitive screen working! :white_check_mark:
+Everything is going as planned, now I have sent the prototype lab the 3d printed designs for the Raspberry pi case! Once I receive the 3d printed case I can recreate the case according to my button layout on the display. :white_check_mark:
 
 ### Problems and Opportunities
-I could not create a PCB as discussed with Professor Medri, so I dont have any PCB to showcase.
+Now that my touchscreen works fine I had to demonstrate that its picking up accurate touches. To do that I installed the "event test" and "touchscreen library" packages.
+
+### This is the required code for the packages and command
+
+```C
+'For the event test and touchscreen library packages'
+sudo apt-get install evtest tslib libts-bin
+
+'Event test tool'
+sudo evtest /dev/input/touchscreen
+```
 
 ### Financial Status
 Since my raspberry pi uses a touchscreen display I am required to bring a keyboard and mouse into class. I will invest in a wireless keyboard and mouse for portability. 
