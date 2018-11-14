@@ -12,15 +12,19 @@ I am going to attach some good-to-have links for pinouts,schematic diagrams and 
 ### Current Progress
 Everything is going as planned, now I have sent the prototype lab the 3d printed designs for the Raspberry pi case! Once I receive the 3d printed case I can recreate the case according to my button layout on the display. :white_check_mark:
 
-This is what happens when you run the event [demonstration](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/20181113_205534.jpg)
+This is what happens when you run the event demonstration
 
-This is the outcome when the screen is touched and a output is given [touched screen](DigitalDashboard/20181113_205612.jpg) 
+![demonstration](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/20181113_205534.jpg)
 
-[Pi Stand STL File](DigitalDashboard/pistand.stl)
+This is the outcome when the screen is touched and a output is given 
 
-[Pi Bottom STL File](DigitalDashboard/Bottom4.stl)
+![touched screen](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/20181113_205612.jpg) 
 
-[Pi Top STL File](DigitalDashboard/pitft35-top.stl)
+![Pi Stand STL File](DigitalDashboard/pistand.stl)
+
+![Pi Bottom STL File](DigitalDashboard/Bottom4.stl)
+
+![Pi Top STL File](DigitalDashboard/pitft35-top.stl)
 
 ### Problems and Opportunities
 Now that my touchscreen works fine I had to demonstrate that its picking up accurate touches. To do that I installed the "event test" and "touchscreen library" packages.
