@@ -12,6 +12,12 @@ I am going to attach some good-to-have links for pinouts,schematic diagrams and 
 ### Current Progress
 Everything is going as planned, now I have sent the prototype lab the 3d printed designs for the Raspberry pi case! Once I receive the 3d printed case I can recreate the case according to my button layout on the display. :white_check_mark:
 
+[Pi Stand STL File](DigitalDashboard/pistand.stl)
+
+[Pi Bottom STL File](DigitalDashboard/Bottom4.stl)
+
+[Pi Top STL File](DigitalDashboard/pitft35-top.stl)
+
 ### Problems and Opportunities
 Now that my touchscreen works fine I had to demonstrate that its picking up accurate touches. To do that I installed the "event test" and "touchscreen library" packages.
 
