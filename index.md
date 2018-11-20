@@ -11,16 +11,15 @@ I am going to attach some good-to-have links for pinouts,schematic diagrams and 
 
 ### Current Progress
 
-[Pi Stand STL File](DigitalDashboard/pistand.stl)
-
-[Pi Bottom STL File](DigitalDashboard/Bottom4.stl)
-
-[Pi Top STL File](DigitalDashboard/pitft35-top.stl)
+All the internals are working and only piece of hardware required is the case.
 
 ### Problems and Opportunities
-Currently the problem thats arising is that the 3D printed case.
+I just recieved a email from the prototype lab and they said I should recreate the pi stand in acrylic using Corel Idraw which I will and upload the design to Github.
 
 ### Financial Status
+As I discussed in my last week blog about buying a keyboard, I have now recieved the invoice from Amazon.
+
+![KeyboardInvoice](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/keyboardinvoice.png)
 
 ## Nov 13th- Hardware Demonstrating
 
