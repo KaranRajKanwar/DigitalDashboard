@@ -7,6 +7,21 @@ I am going to attach some good-to-have links for pinouts,schematic diagrams and 
 
 [Github page for Fritzing parts](https://github.com/adafruit/Fritzing-Library)
 
+## Nov 20th- Hardware / Enclosure
+
+### Current Progress
+
+[Pi Stand STL File](DigitalDashboard/pistand.stl)
+
+[Pi Bottom STL File](DigitalDashboard/Bottom4.stl)
+
+[Pi Top STL File](DigitalDashboard/pitft35-top.stl)
+
+### Problems and Opportunities
+Currently the problem thats arising is that the 3D printed case.
+
+### Financial Status
+
 ## Nov 13th- Hardware Demonstrating
 
 ### Current Progress
