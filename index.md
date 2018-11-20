@@ -20,11 +20,11 @@ This is the outcome when the screen is touched and a output is given
 
 ![touched screen](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/20181113_205612.jpg) 
 
-![Pi Stand STL File](DigitalDashboard/pistand.stl)
+[Pi Stand STL File](DigitalDashboard/pistand.stl)
 
-![Pi Bottom STL File](DigitalDashboard/Bottom4.stl)
+[Pi Bottom STL File](DigitalDashboard/Bottom4.stl)
 
-![Pi Top STL File](DigitalDashboard/pitft35-top.stl)
+[Pi Top STL File](DigitalDashboard/pitft35-top.stl)
 
 ### Problems and Opportunities
 Now that my touchscreen works fine I had to demonstrate that its picking up accurate touches. To do that I installed the "event test" and "touchscreen library" packages.
