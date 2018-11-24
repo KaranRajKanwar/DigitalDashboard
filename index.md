@@ -11,7 +11,13 @@ I am going to attach some good-to-have links for pinouts,schematic diagrams and 
 
 ### Current Progress
 
-All the internals are working and only piece of hardware required is the case.
+All the internals are working and only piece of hardware required is the case.Case is now aquired and acrylic drawing of stand is on the way.
+
+[Pi Stand STL File](DigitalDashboard/pistand.stl)
+
+[Pi Bottom STL File](DigitalDashboard/Bottom4.stl)
+
+[Pi Top STL File](DigitalDashboard/pitft35-top.stl)
 
 ### Problems and Opportunities
 I just recieved a email from the prototype lab and they said I should recreate the pi stand in acrylic using Corel Idraw which I will and upload the design to Github.
@@ -33,12 +39,6 @@ This is what happens when you run the event demonstration
 This is the outcome when the screen is touched and a output is given 
 
 ![touched screen](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/20181113_205612.jpg) 
-
-[Pi Stand STL File](DigitalDashboard/pistand.stl)
-
-[Pi Bottom STL File](DigitalDashboard/Bottom4.stl)
-
-[Pi Top STL File](DigitalDashboard/pitft35-top.stl)
 
 ### Problems and Opportunities
 Now that my touchscreen works fine I had to demonstrate that its picking up accurate touches. To do that I installed the "event test" and "touchscreen library" packages.
