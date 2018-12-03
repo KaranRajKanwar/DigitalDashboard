@@ -8,6 +8,14 @@ I am going to attach some good-to-have links for pinouts,schematic diagrams and 
 [Github page for Fritzing parts](https://github.com/adafruit/Fritzing-Library)
 
 ## Nov 20th- Hardware / Enclosure
+### Update on enclosure
+I have now recieved my case and finished cleaning it up from the plastic debris. The top of the case whcih should show the screen and the 4 buttons is there but isn't aligned correctly with the screen itself. I have attached pictures of the enclosure below.
+
+![withouttop](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/20181201_141259.jpg)
+![bottomsdcard](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/20181201_141351.jpg)
+![ports](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/20181201_141714.jpg)
+![withscreen](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/20181201_141722.jpg)
+![otherports](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/20181201_141240.jpg)
 
 ### Current Progress
 
@@ -82,7 +90,9 @@ As of now I have the Adafruit Capactive Touchscreen working on top of my Raspber
  chmod +x adafruit-pitft.sh
  sudo ./adafruit-pitft.sh
 ```
+### This is the i2c Detect for my device
 
+This is the ![i2c](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/ic2.png)
 ### Problems and Opportunities
 
 The most frequent problem that I ran into was choosing the incorrect display driver when running the script on my raspberry pi. Installing the incorrect driver can casue issues for the display. Also I chose to use gui mode as terminal mode doesnt allow for any gui. My device wont allow me to create a PCB as it requires all 40 GPIO pins to be used by the touchscreen.Professor Medri allowed me to continue with no PCB design.
