@@ -1,4 +1,4 @@
-# DigitalDashboard
+# DigitalDashboard Build Instructions
 
 
 Contents of the Digital Dashboard
@@ -14,3 +14,15 @@ The Schedule = https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/sc
 The Proof of Purchase = https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/Proof%20of%20purchase.pdf
 
 The UML Diagram = https://github.com/KaranRajKanwar/DigitalDashboard/blob/master/Digital%20Dashboard%20UML%20Diagram.png
+
+
+    Correct README.md usage
+    Introduction using a system diagram
+    Bill of Materials/Budget
+    Time Commitment
+    Mechanical Assembly
+    PCB / Soldering
+    Power Up
+    Unit Testing
+    Production Testing
+    Is the project reproducible by following your instructions?
