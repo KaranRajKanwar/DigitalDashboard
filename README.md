@@ -92,7 +92,7 @@ Sudo i2cdetect -y 1
 
 running this command the value UU is place on 30:and 8. That gives us 0x38 which is our devices correct i2c address.
 Now we confirm that we can demonstrate a program in which it states where the touchscreen was touched at and gives the x and y coordinates.In order to do this we must install the "event test" and "touchscreen libaries", this can be done by running these commands in the terminal.
-```c
+```C
 'For the event test and touchscreen library packages'
 sudo apt-get install evtest tslib libts-bin
 
@@ -104,3 +104,9 @@ sudo evtest /dev/input/touchscreen
 ![testing](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/20181113_205612.jpg)
 
 ## Production Testing
+To make sure that the DigitaDashboard is good for production, we would test the sturdyness of the case and whether the software functions on all devices.
+* Test the device and check if its communicating with the rasspberry pi by checking the i2c address. run this command in terminal to see if i2c is communicating
+```c
+Sudo i2cdetect -y 1
+```
+* Test the event handler for the touchscreen device to see if its giving us accurate readings and to perform a nice first time calibration.
