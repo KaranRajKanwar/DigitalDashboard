@@ -64,7 +64,10 @@ Now we are good to throw the Raspberry pi with the attached touchscreen into the
 ![Enclosure on without top](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/20181201_141240.jpg)
 
 ## PCB/Soldering
-Not Required
+Not Required but I created a Fritzing design of how the connections look like for the 2 devices
+
+![Fritzing](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/BreadboardDiagram.png)
+
 ## Power Up / Raspberry Pi setup
 1. Download Raspbian disc image on a computer via ZIP download or torrent.
 2. Unzip the downloaded file using any software of choice, I prefer WinRAR.
@@ -81,7 +84,23 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 ## Unit Testing
-    
+If the touchscreen works and responds correctly with touches, its confirmed that its been installed correctly but to make sure we can check our i2c address by running this command in the terminal 
+```C
+Sudo i2cdetect -y 1
+```
+![i2cdetect](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/ic2.png)
+
+running this command the value UU is place on 30:and 8. That gives us 0x38 which is our devices correct i2c address.
+Now we confirm that we can demonstrate a program in which it states where the touchscreen was touched at and gives the x and y coordinates.In order to do this we must install the "event test" and "touchscreen libaries", this can be done by running these commands in the terminal.
+```c
+'For the event test and touchscreen library packages'
+sudo apt-get install evtest tslib libts-bin
+
+'Event test tool'
+sudo evtest /dev/input/touchscreen
+```
+
+![Start up](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/20181113_205534.jpg)
+![testing](https://raw.githubusercontent.com/KaranRajKanwar/DigitalDashboard/master/20181113_205612.jpg)
+
 ## Production Testing
-    
-## Is the project reproducible by following your instructions?
